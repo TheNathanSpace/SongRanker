@@ -1,1 +1,0 @@
-django_key = 'django-insecure-g^u-8-4b8x09mq^1j3ktcp&jf!3j%3pq+#@93nmbekecsc@cej'
